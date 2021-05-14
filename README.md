@@ -15,3 +15,7 @@ or just drawing fun anime's, nice right?`
 - Finishing and lauching my upcoming bot Bixie!
 - Learn how to use JavaScript in a HTML Website work as back-end language.
 - Trying to make my own Code Language :)
+
+### 📱 Contact me:
+**Discord:** Ilian#0001
+**Twitter:** Iliannnnn
