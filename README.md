@@ -17,5 +17,4 @@ or just drawing fun anime's, nice right?`
 - Trying to make my own Code Language :)
 
 ### 📱 Contact me:
-**Discord:** Ilian#0001
-**Twitter:** Iliannnnn
+**Discord:** Ilian#0001\n**Twitter:** Iliannnnn
