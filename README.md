@@ -1,4 +1,4 @@
-# Heyo!  
+# Heyo! 🔥
 
 ## Nice to meet you! Yeah! I'm that guy Ilian. Sure, I'm the one that is so bad at making nicknames so just take his first name everywhere, nice right?
 
@@ -12,6 +12,6 @@ to make creative stuff, such things like editing photos or adding effects to Vid
 or just drawing fun anime's, nice right?`
 
 ### My Current Goals:
-- Finishing and lauching my upcoming bot Bixie!
+`- Finishing and lauching my upcoming bot Bixie!
 - Learn how to use JavaScript in a HTML Website work as back-end language.
-- Trying to make my own Code Language :)
+- Trying to make my own Code Language :)`
