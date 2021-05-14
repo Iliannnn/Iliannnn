@@ -12,6 +12,8 @@ to make creative stuff, such things like editing photos or adding effects to Vid
 or just drawing fun anime's, nice right?`
 
 ### My Current Goals:
-`- Finishing and lauching my upcoming bot Bixie!
+`
+- Finishing and lauching my upcoming bot Bixie!
 - Learn how to use JavaScript in a HTML Website work as back-end language.
-- Trying to make my own Code Language :)`
+- Trying to make my own Code Language :)
+`
