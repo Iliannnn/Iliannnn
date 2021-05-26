@@ -1,6 +1,6 @@
 # Heyo! 🔥
 
-## Nice to meet you! Yeah! I'm that guy Ilian. Sure, I'm the one that is so bad at making nicknames so just take his first name everywhere, nice right?
+## Just a random kido that likes to code
 
 ### ℹ️ About Me:
 `Hey, as you may already know my name is Ilian, I live in Belgium in the province West-Flanders and I am involved in
