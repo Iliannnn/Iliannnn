@@ -1,6 +1,6 @@
 # Heyo! 🔥
 
-## Just a random kido that likes to code
+## Just a random kido that likes to code..
 
 ### ℹ️ About Me:
 `Hey, as you may already know my name is Ilian, I live in Belgium in the province West-Flanders and I am involved in
