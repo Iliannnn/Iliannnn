@@ -18,4 +18,5 @@ or just drawing fun anime's, nice right?
 
 ### 📱 Contact Me:
 **Discord:** Ilian#0001  
-**Twitter:** Iliannnnn
+**Twitter:** Iliannnnn  
+**GitLab:** Iliannnn
