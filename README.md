@@ -12,7 +12,7 @@ or just drawing fun anime's, nice right?
 
 ### 🔮 My Current Goals: 
 - Finishing and launching my upcoming bot Bixie!
-- Learn how to use JavaScript in a HTML website as back-end.
+- Improving my JavaScript back-end skills.
 - Trying to make my own programming language :)
 
 ### 📱 Contact Me:
