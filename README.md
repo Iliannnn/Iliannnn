@@ -12,11 +12,11 @@ or just drawing fun anime's, nice right?
 
 ### 🔮 My Current Goals: 
 - Finishing and launching my upcoming bot Bixie!
-- Improving my JavaScript back-end skills.
+- Improving my PHP skills.
 - Trying to make my own programming language :)
 
 ### 📱 Contact Me:
-**Discord:** Ilian#0001  
+**Discord:** Ilian#6635
 **Twitter:** Iliannnnn  
 **GitLab:** Iliannnn   
 **TikTok:** Iliannnnnnnnn
