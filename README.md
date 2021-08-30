@@ -11,10 +11,10 @@ to make creative stuff, such things like editing photos or adding effects to vid
 or just drawing fun anime's, nice right?
 
 ### 🔮 My Current Goals: 
-- Finishing and launching my upcoming bot Bixie!
+- Finishing and launching my upcoming bot **Bixie**!
 - Improving my PHP skills.
 - Trying to make my own programming language :)
-
+- Finishing my 200k+ JSON api called **PgData** .-.
 ### 📱 Contact Me:
 **Discord:** Ilian#6635  
 **Twitter:** Iliannnnn  
