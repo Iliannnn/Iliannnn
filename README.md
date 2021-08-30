@@ -16,7 +16,7 @@ or just drawing fun anime's, nice right?
 - Trying to make my own programming language :)
 
 ### 📱 Contact Me:
-**Discord:** Ilian#6635
+**Discord:** Ilian#6635  
 **Twitter:** Iliannnnn  
 **GitLab:** Iliannnn   
 **TikTok:** Iliannnnnnnnn
