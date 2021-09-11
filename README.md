@@ -19,6 +19,12 @@ or just drawing fun anime's, nice right?
 **GitLab:** Iliannnn   
 **TikTok:** Iliannnnnnnnn
 
+### My Gists:
+- [Quick.db Guide](https://gist.github.com/Iliannnn/335f58e0e6160979a731c131d1826bb1)
+- [Discord.js Quick.db Guide](https://gist.github.com/Iliannnn/06bacf2d8aa732f13e549d844b9a6cec)
+- [Solve Quick.db Install Errors](https://gist.github.com/Iliannnn/93612ad097566742520d448d91f71ae9)
+- [Quick.db Dot Notation](https://gist.github.com/Iliannnn/917d53c5ccac30c505301b70a2394e18)
+- [Quick.db Prototypes](https://gist.github.com/Iliannnn/f2f2e69e8f1a78e6b99f8ecf234cfd51)
 
 <div align="center">
    <img src="https://metrics.lecoq.io/Iliannnn?base.repositories=0&languages=1&isocalendar=1&followup=1">
