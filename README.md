@@ -30,6 +30,7 @@
 <a href="https://reactjs.org/"><img src="assets/react.png" alt="react" width="45" /></a>
 <a href="https://getbootstrap.com/"><img src="assets/bootstrap.png" alt="bootstrap" width="45" /></a>
 <a href="https://www.prisma.io/"><img src="assets/prisma.png" alt="prisma" width="45" /></a>
+<a href="https://www.postman.com/"><img src="assets/postman.png" alt="postman" width="45" /></a>
 
 ### Tools
 
