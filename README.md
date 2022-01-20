@@ -12,7 +12,7 @@
     - [React-Portfolio](https://github.com/Iliannnn/React-Portfolio) - A portfolio template build with React
     - [Celendi v2](https://celendi.me/) - The v2 rewrite of Celendi
 - Projects:
-    - [Imagehost-Template-PHP](https://github.com/Iliannnn/Imagehost-Template-PHP) - A imagehost template build with PHP
+    - [Imagehost](https://github.com/Iliannnn/Imagehost-Template-PHP) - A imagehost template build with PHP
     - [Hastebin](https://github.com/Jqstln/hastebin) - Hastebin client & server, custom self-hosted
 
 ### Connect with me:
