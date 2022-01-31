@@ -28,7 +28,7 @@
 
 ### Technologies
 
-![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap) ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma) ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn) ![Npm](https://img.shields.io/badge/-NPM-000?&logo=npm) ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap) ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma) ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn) ![Npm](https://img.shields.io/badge/-NPM-000?&logo=npm) ![Git](https://img.shields.io/badge/-Git-000?&logo=git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 ### Tools
 
