@@ -7,9 +7,8 @@
 </a>
 
 - Currently working on:
-    - [PgData Api](https://github.com/Iliannnn/PgData-Api) - An api full of data about Pokemon Go, free and opensource
     - [discord-lib](https://github.com/discord-lib/discord-lib) - A lightweight library for interacting with the Discord API
-    - [React-Portfolio](https://github.com/Iliannnn/React-Portfolio) - A portfolio template build with React
+    - [react-portfolio](https://github.com/Iliannnn/React-Portfolio) - A portfolio template build with React
     - [Celendi v2](https://celendi.me/) - The v2 rewrite of Celendi
 - Projects:
     - [Imagehost](https://github.com/Iliannnn/Imagehost-Template-PHP) - A imagehost template build with PHP
