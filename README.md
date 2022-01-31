@@ -24,18 +24,18 @@
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
 
-![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap) ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma) ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn) ![Npm](https://img.shields.io/badge/-NPM-000?&logo=npm) ![Git](https://img.shields.io/badge/-Git-000?&logo=git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap) ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma) ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn) ![Npm](https://img.shields.io/badge/-NPM-000?&logo=npm) ![Git](https://img.shields.io/badge/-Git-000?&logo=git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![React](https://img.shields.io/badge/-React-000?&logo=react) ![styled-components](https://img.shields.io/badge/-styled--components-000?&logo=styled-components)
 
 ### Tools
 
 ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visualstudiocode) ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-000?&logo=mysql) ![Adobe Xd](https://img.shields.io/badge/-Adobe%20Xd-000?&logo=Adobe%20XD) ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=Adobe%20Photoshop) ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 ### Currently learning:
-![React](https://img.shields.io/badge/-React-000?&logo=react) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000?&logo=Arch%20Linux)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000?&logo=Arch%20Linux)
 
 <br />
 <br />
