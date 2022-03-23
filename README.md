@@ -6,6 +6,8 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/597445640129085440?idleMessage=Not%20doing%20shit%20lol" align="right" />
 </a>
 
+<img src="./github-metrics.svg" align="right" />
+
 - Currently working on:
     - [discord-lib](https://github.com/discord-lib/discord-lib) - A lightweight library for interacting with the Discord API
     - [react-portfolio](https://github.com/Iliannnn/React-Portfolio) - A portfolio template build with React
@@ -36,10 +38,3 @@
 
 ### Currently learning:
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000?&logo=Arch%20Linux)
-
-<br />
-<br />
-
----
-
-![](./github-metrics.svg)
