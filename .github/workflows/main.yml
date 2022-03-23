@@ -1,4 +1,3 @@
-name: Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
