@@ -3,7 +3,7 @@
 ### I'm Ilian, yep that's it.
 
 <a href="https://discord.com/users/597445640129085440/">
-  <img src="https://lanyard-profile-readme.vercel.app/api/597445640129085440?idleMessage=⠀" align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/597445640129085440?idleMessage=probs offline" align="right" />
 </a>
 
 - Currently working on:
