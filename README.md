@@ -11,7 +11,7 @@
     - [react-portfolio](https://github.com/Iliannnn/React-Portfolio) - An portfolio template build with React
     - [Celendi v2](https://celendi.me/) - The v2 rewrite of Celendi
 - Projects:
-    - [Imagehost](https://github.com/Iliannnn/Imagehost-Template-PHP) - A imagehost template build with PHP
+    - [Imagehost](https://github.com/Iliannnn/Imagehost) - A imagehost template built with PHP
     - [Hastebin](https://github.com/Jqstln/hastebin) - Hastebin client & server, custom self-hosted
 
 ### Connect with me:
