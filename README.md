@@ -13,6 +13,8 @@
 - Projects:
     - [Imagehost](https://github.com/Iliannnn/Imagehost) - An imagehost template built with PHP
     - [Hastebin](https://github.com/Jqstln/hastebin) - Hastebin client & server, custom self-hosted
+- Gists:
+    - [Discord.js v13 Events - Cheatsheet](https://gist.github.com/Iliannnn/6c69605cb6b8cc03f0ab9c885fd39906)
 
 ### Connect with me:
 
