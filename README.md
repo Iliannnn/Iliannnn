@@ -2,7 +2,7 @@
 
 ### I'm Ilian, yep that's it.
 
-<p align="center"><img src="[https://komarev.com/ghpvc/?username=fyxren&color=000000&style=for-the-badge](https://komarev.com/ghpvc/?username=Iliannnn)"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Iliannnn"></p>
 
 <a href="https://discord.com/users/597445640129085440/">
   <img src="https://lanyard-profile-readme.vercel.app/api/597445640129085440?idleMessage=⠀" align="right" />
