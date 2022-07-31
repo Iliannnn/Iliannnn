@@ -10,7 +10,7 @@
 
 - Currently working on:
     - [discord-lib](https://github.com/discord-lib/discord-lib) - A lightweight library for interacting with the Discord API
-    - [react-portfolio](https://github.com/Iliannnn/React-Portfolio) - A portfolio template build with React
+    - [react-portfolio](https://github.com/Iliannnn/React-Portfolio) - A portfolio template built with React
     - [Celendi v2](https://celendi.me/) - The v2 rewrite of Celendi
 - Projects:
     - [Imagehost](https://github.com/Iliannnn/Imagehost) - An imagehost template built with PHP
