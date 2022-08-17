@@ -10,8 +10,9 @@
 
 - Currently working on:
     - [discord-lib](https://github.com/discord-lib/discord-lib) - A lightweight library for interacting with the Discord API
-    - [react-portfolio](https://github.com/Iliannnn/React-Portfolio) - A portfolio template built with React
-    - [Celendi v2](https://celendi.me/) - The v2 rewrite of Celendi
+    - [react-portfolio](https://github.com/Iliannnn/react-portfolio) - A portfolio template built with React
+    - [mlbcli](https://github.com/Iliannnn/mlbcli) - A cli tool to view MLB player, team, game and report stats.
+    - [Celendi v2](https://celendi.xyz/) - The v2 rewrite of Celendi
 - Projects:
     - [Imagehost](https://github.com/Iliannnn/Imagehost) - An imagehost template built with PHP
     - [Hastebin](https://github.com/Jqstln/hastebin) - Hastebin client & server, custom self-hosted
