@@ -9,14 +9,15 @@
 </a>
 
 - Currently working on:
-    - [discord-lib](https://github.com/discord-lib/discord-lib) - A lightweight library for interacting with the Discord API
-    - [react-portfolio](https://github.com/Iliannnn/react-portfolio) - A portfolio template built with React
+    - [discord-lib](https://github.com/discord-lib/discord-lib) - A lightweight library for interacting with the Discord API.
+    - [react-portfolio](https://github.com/Iliannnn/react-portfolio) - A portfolio template built with React.
+    - [mlb-statsapi-types](https://github.com/Iliannnn/mlb-statsapi-types) - Simple type definitions for the MLB Stats API.
+    - [mlb.js](https://github.com/Iliannnn/mlb.js) - A powerful JavaScript library for interacting with the MLB Stats API.
     - [mlbcli](https://github.com/Iliannnn/mlbcli) - A cli tool to view MLB player, team, game and report stats.
-    - [Celendi v2](https://celendi.xyz/) - The v2 rewrite of Celendi
 - Projects:
-    - [Imagehost](https://github.com/Iliannnn/Imagehost) - An imagehost template built with PHP
-    - [Hastebin](https://github.com/Jqstln/hastebin) - Hastebin client & server, custom self-hosted
+    - [Imagehost](https://github.com/Iliannnn/Imagehost) - An imagehost template built with PHP.
     - [min-react](https://github.com/Iliannnn/min-react) - Min components for React.
+    - [Celendi](https://celendi.xyz/) - A multipurpose Discord bot designed to be the only bot you need in your server.
 - Gists:
     - [Discord.js v13 Events - Cheatsheet](https://gist.github.com/Iliannnn/6c69605cb6b8cc03f0ab9c885fd39906)
     - [Discord.js v14 Events - Cheatsheet](https://gist.github.com/Iliannnn/f4985563833e2538b1b96a8cb89d72bb)
