@@ -36,7 +36,7 @@
 
 ### Technologies
 
-![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap) ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma) ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn) ![Npm](https://img.shields.io/badge/-NPM-000?&logo=npm) ![Git](https://img.shields.io/badge/-Git-000?&logo=git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![React](https://img.shields.io/badge/-React-000?&logo=react) ![styled-components](https://img.shields.io/badge/-styled--components-000?&logo=styled-components)
+![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss) ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma) ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn) ![Npm](https://img.shields.io/badge/-NPM-000?&logo=npm) ![Git](https://img.shields.io/badge/-Git-000?&logo=git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![React](https://img.shields.io/badge/-React-000?&logo=react) ![styled-components](https://img.shields.io/badge/-styled--components-000?&logo=styled-components)
 
 ### Tools
 
