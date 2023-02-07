@@ -29,6 +29,7 @@
 <a href="https://discord.com/users/597445640129085440/">![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)</a>
 <a href="https://gitlab.com/Iliannnn/">![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)</a>
 <a href="https://youtube.com/channel/UCLpjXcD-JbYygD1e1rYYObA?sub_confirmation=1/">![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=YouTube)</a>
+<a href="https://wakatime.com/@Iliannnn">![Wakatime](https://img.shields.io/badge/-Wakatime-000?&logo=WakaTime)</a>
 
 ### Languages
 
