@@ -48,4 +48,7 @@
 
 <div align="center">
   <img src="./github-metrics.svg" />
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div
