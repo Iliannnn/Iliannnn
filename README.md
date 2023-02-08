@@ -50,5 +50,14 @@
   <img src="./github-metrics.svg" />
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+JavaScript   3 hrs 3 mins    ██████████████████████░░░   88.34 %
+CSV          18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+```
+
+<!--END_SECTION:waka-->
 </div
