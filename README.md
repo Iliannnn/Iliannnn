@@ -52,11 +52,16 @@
   <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 3 mins    ██████████████████████░░░   88.34 %
-CSV          18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+From: 29 May 2021 - To: 07 February 2023
+
+Total Time: 592 hrs 39 mins
+
+JavaScript      425 hrs 41 mins █████████████████▓░░░░░░░   71.06 %
+TypeScript      42 hrs 53 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+JSON            26 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Markdown        24 hrs 56 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+HTML            21 hrs 11 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+EJS             12 hrs 35 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
