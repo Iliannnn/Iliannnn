@@ -56,12 +56,12 @@ From: 29 May 2021 - To: 10 February 2023
 
 Total Time: 594 hrs 17 mins
 
-JavaScript      426 hrs 12 mins █████████████████▓░░░░░░░   70.95 %
-TypeScript      42 hrs 53 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-JSON            26 hrs 56 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Markdown        24 hrs 56 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-HTML            21 hrs 11 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-EJS             12 hrs 35 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+JavaScript      426 hrs 12 mins ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁   70.95 %
+TypeScript      42 hrs 53 mins  ▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.14 %
+JSON            26 hrs 56 mins  ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.49 %
+Markdown        24 hrs 56 mins  ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.15 %
+HTML            21 hrs 11 mins  ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.53 %
+EJS             12 hrs 35 mins  ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.10 %
 ```
 
 <!--END_SECTION:waka-->
