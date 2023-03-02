@@ -1,7 +1,3 @@
-## Heyo! 🔥
-
-### I'm Ilian, yep that's it.
-
 <img src="https://komarev.com/ghpvc/?username=Iliannnn">
 
 <a href="https://discord.com/users/597445640129085440/">
