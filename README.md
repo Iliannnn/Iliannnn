@@ -13,7 +13,7 @@
 - Projects:
     - [Imagehost](https://github.com/Iliannnn/Imagehost) - An imagehost template built with PHP.
     - [min-react](https://github.com/Iliannnn/min-react) - Min components for React.
-    - [Celendi](https://celendi.xyz/) - A multipurpose Discord bot designed to be the only bot you need in your server.
+    - [Celendi](https://celendi.gg/) - A multipurpose Discord bot designed to be the only bot you need in your server.
 - Gists:
     - [Discord.js v13 Events - Cheatsheet](https://gist.github.com/Iliannnn/6c69605cb6b8cc03f0ab9c885fd39906)
     - [Discord.js v14 Events - Cheatsheet](https://gist.github.com/Iliannnn/f4985563833e2538b1b96a8cb89d72bb)
