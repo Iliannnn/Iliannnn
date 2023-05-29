@@ -48,13 +48,13 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 20 May 2023 - To: 27 May 2023
+From: 21 May 2023 - To: 28 May 2023
 
-Total Time: 44 mins
+Total Time: 58 mins
 
-TypeScript   42 mins         ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▁   86.62 %
-Other        4 mins          ▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.34 %
-CSS          2 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.03 %
+TypeScript   56 mins         ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▁   89.61 %
+Other        4 mins          ▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.48 %
+CSS          2 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.91 %
 ```
 
 <!--END_SECTION:waka-->
