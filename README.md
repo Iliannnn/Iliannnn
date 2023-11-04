@@ -25,6 +25,7 @@
 <a href="https://twitter.com/Iliannnnn/">![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)</a>
 <a href="https://discord.com/users/597445640129085440/">![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)</a>
 <a href="https://wakatime.com/@Iliannnn">![Wakatime](https://img.shields.io/badge/-Wakatime-000?&logo=WakaTime)</a>
+<a href="mailto:mail@iliannnn.dev">![Mail](https://img.shields.io/badge/-Mail-000?&logo=gmail)</a>
 
 ### Languages
 
