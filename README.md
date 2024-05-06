@@ -50,13 +50,12 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2024 - To: 04 May 2024
+From: 28 April 2024 - To: 05 May 2024
 
-Total Time: 3 hrs 37 mins
+Total Time: 1 hr 42 mins
 
-TypeScript   3 hrs 18 mins   ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁   91.50 %
-TOML         18 mins         ▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.32 %
-JavaScript   0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.17 %
+TypeScript   1 hr 41 mins    ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   99.72 %
+JavaScript   0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.28 %
 ```
 
 <!--END_SECTION:waka-->
