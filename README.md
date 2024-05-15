@@ -50,14 +50,15 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2024 - To: 13 May 2024
+From: 07 May 2024 - To: 14 May 2024
 
-Total Time: 9 hrs 35 mins
+Total Time: 9 hrs 46 mins
 
-TypeScript   9 hrs 35 mins   ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   99.89 %
+TypeScript   9 hrs 41 mins   ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   99.09 %
+Bash         3 mins          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.67 %
+Git Config   0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.12 %
 Prisma       0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.08 %
 JSON         0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.02 %
-CSS          0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.01 %
 ```
 
 <!--END_SECTION:waka-->
