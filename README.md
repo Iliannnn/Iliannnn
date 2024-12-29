@@ -50,12 +50,12 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2024 - To: 26 December 2024
+From: 20 December 2024 - To: 27 December 2024
 
-Total Time: 2 hrs 52 mins
+Total Time: 1 hr 54 mins
 
-Markdown   2 hrs 48 mins   ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁   97.62 %
-CSS        4 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.38 %
+Markdown   1 hr 50 mins    ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁   97.11 %
+CSS        3 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.89 %
 ```
 
 <!--END_SECTION:waka-->
