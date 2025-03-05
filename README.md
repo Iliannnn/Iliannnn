@@ -4,17 +4,12 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/597445640129085440?idleMessage=⠀" align="right" />
 </a>
 
-- Currently working on:
-    - [discord-lib](https://github.com/discord-lib/discord-lib) - A lightweight library for interacting with the Discord API.
-    - [react-portfolio](https://github.com/Iliannnn/react-portfolio) - A portfolio template built with React.
-    - [mlb-statsapi-types](https://github.com/Iliannnn/mlb-statsapi-types) - Simple type definitions for the MLB Stats API.
-    - [mlb.js](https://github.com/Iliannnn/mlb.js) - A powerful JavaScript library for interacting with the MLB Stats API.
-    - [mlbcli](https://github.com/Iliannnn/mlbcli) - A cli tool to view MLB player, team, game and report stats.
 - Projects:
     - [Imagehost](https://github.com/Iliannnn/Imagehost) - An imagehost template built with PHP.
     - [min-react](https://github.com/Iliannnn/min-react) - Min components for React.
     - [Celendi](https://celendi.gg/) - A multipurpose Discord bot designed to be the only bot you need in your server.
     - [Discord Wrapped](https://discordwrapped.com/) - An insight on all the data collected by Discord, formed into a video just like Spotify Wrapped!
+    - [Smarter Smartschool](https://github.com/EbbDrop/SmarterSmartchool) - Modifies Smartschool to get extra functionality.
 - Gists:
     - [Discord.js v13 Events - Cheatsheet](https://gist.github.com/Iliannnn/6c69605cb6b8cc03f0ab9c885fd39906)
     - [Discord.js v14 Events - Cheatsheet](https://gist.github.com/Iliannnn/f4985563833e2538b1b96a8cb89d72bb)
@@ -25,7 +20,6 @@
 <a href="https://twitter.com/Iliannnnn/">![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)</a>
 <a href="https://discord.com/users/597445640129085440/">![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord)</a>
 <a href="https://wakatime.com/@Iliannnn">![Wakatime](https://img.shields.io/badge/-Wakatime-000?&logo=WakaTime)</a>
-<a href="mailto:mail@iliannnn.dev">![Mail](https://img.shields.io/badge/-Mail-000?&logo=gmail)</a>
 
 ### Languages
 
@@ -38,9 +32,6 @@
 ### Tools
 
 ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visualstudiocode) ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-000?&logo=mysql) ![Adobe Xd](https://img.shields.io/badge/-Adobe%20Xd-000?&logo=Adobe%20XD) ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=Adobe%20Photoshop) ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-
-### Currently learning:
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000?&logo=Arch%20Linux)
 
 ---
 
