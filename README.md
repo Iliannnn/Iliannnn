@@ -4,6 +4,14 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/597445640129085440?idleMessage=⠀" align="right" />
 </a>
 
+## About me
+Motivated student with a passion for technology, web development and graphic design. Experienced in programming and Linux server management. Independent in learning new technologies.
+
+## Skills
+- Web development (Full stack): JavaScript (Node.js), TypeScript, PHP, SQL, React, Prisma, Vite, Shopify
+- DevOps & Linux: Docker, Linux server management, Git, Hetzner, Cloudflare
+- Graphic design: Adobe Photoshop, Premiere Pro, XD
+
 - Projects:
     - [Imagehost](https://github.com/Iliannnn/Imagehost) - An imagehost template built with PHP.
     - [min-react](https://github.com/Iliannnn/min-react) - Min components for React.
