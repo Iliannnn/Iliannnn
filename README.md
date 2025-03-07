@@ -22,6 +22,10 @@ Motivated student with a passion for technology, web development and graphic des
     - [Discord.js v13 Events - Cheatsheet](https://gist.github.com/Iliannnn/6c69605cb6b8cc03f0ab9c885fd39906)
     - [Discord.js v14 Events - Cheatsheet](https://gist.github.com/Iliannnn/f4985563833e2538b1b96a8cb89d72bb)
 
+### Freelancing projects
+- **[WaveShield](https://waveshield.xyz)**: Designed the landing page for one of the best FiveM anticheats on the market
+- **[AmericanMCC](https://americanmcc.com/)**: Contributed to making changes to the Shopify template and adding additional features to improve functionality.
+
 ### Connect with me:
 
 <a href="https://github.com/Iliannnn">![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)</a>
