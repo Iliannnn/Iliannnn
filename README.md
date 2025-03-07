@@ -53,7 +53,7 @@ Motivated student with a passion for technology, web development and graphic des
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![C++ (Arduino)](https://img.shields.io/badge/-C++-(Arduino)-000?&logo=linux)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![C++ (Arduino)](https://img.shields.io/badge/-C++%20(Arduino)-000?&logo=cplusplus)
 
 ### Technologies
 
