@@ -21,6 +21,11 @@ Motivated student with a passion for technology, web development and graphic des
 - **Gists**:
     - [Discord.js v13 Events - Cheatsheet](https://gist.github.com/Iliannnn/6c69605cb6b8cc03f0ab9c885fd39906)
     - [Discord.js v14 Events - Cheatsheet](https://gist.github.com/Iliannnn/f4985563833e2538b1b96a8cb89d72bb)
+ 
+### Freelancing projects
+- **[WaveShield](https://waveshield.xyz)**: Designed the landing page for one of the best FiveM anticheats on the market.
+- **[AmericanMCC](https://americanmcc.com/)**: Contributed to making changes to the Shopify template and adding additional features to improve functionality.
+- **[AspinRock](https://www.aspinrock.com/)**: Took over from the previous developer to fix bugs, redesign the UI, and complete the "Contact Us" form along with the admin panel to manage it. Discovered and resolved a critical vulnerability that exposed the admin credentials to the public due to improper validation. Added functionality for users to subscribe to a mailing list, integrating Mailchimp in the backend to handle subscriptions. Assisted in deploying the updated website using Vercel.
 
 ### What I can do
 - **Frontend**: Building responsive UIs using React, Next.js, Vite, TailwindCSS and Chadcn.
@@ -38,11 +43,6 @@ Motivated student with a passion for technology, web development and graphic des
 - **Cloud solutions**: Learn to deploy apps and services with cloud providers like AWS and Azure.
 - **Mobile development**: Learn how to create mobile apps with technologies like React Native and Flutter.
 ... and more
-
-### Freelancing Projects
-- **[WaveShield](https://waveshield.xyz)**: Designed the landing page for one of the best FiveM anticheats on the market.
-- **[AmericanMCC](https://americanmcc.com/)**: Contributed to making changes to the Shopify template and adding additional features to improve functionality.
-- **[AspinRock](https://www.aspinrock.com/)**: Took over from the previous developer to fix bugs, redesign the UI, and complete the "Contact Us" form along with the admin panel to manage it. Discovered and resolved a critical vulnerability that exposed the admin credentials to the public due to improper validation. Added functionality for users to subscribe to a mailing list, integrating Mailchimp in the backend to handle subscriptions. Assisted in deploying the updated website using Vercel.
 
 ### Connect with me:
 
