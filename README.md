@@ -5,12 +5,12 @@
 </a>
 
 ### About me
-Motivated student with a passion for technology, web development and graphic design. Experienced in programming and Linux server management. Independent in learning new technologies.
+Motivated student with a passion for technology, web development and graphic design. Experienced in programming and Linux server management. Always eager to explore new technologies and apply them to real-world projects. Interested in learning AI/machine learning.
 
 ### Skills
-- Web development (Full stack): JavaScript (Node.js), TypeScript, PHP, SQL, React, Prisma, Vite, Shopify
-- DevOps & Linux: Docker, Linux server management, Git, Hetzner, Cloudflare
-- Graphic design: Adobe Photoshop, Premiere Pro, XD
+- **Web development (Full stack)**: JavaScript (Node.js), TypeScript, PHP, SQL, React, Next.js, Prisma, Vite, Shopify, Standalone Backends, TailwindCSS, Chadcn
+- **DevOps & Linux**: Docker, Linux server management, Git, Hetzner, Cloudflare
+- **Graphic design**: Adobe Photoshop, Premiere Pro, XD
 
 - Projects:
     - [Imagehost](https://github.com/Iliannnn/Imagehost) - An imagehost template built with PHP.
@@ -22,9 +22,27 @@ Motivated student with a passion for technology, web development and graphic des
     - [Discord.js v13 Events - Cheatsheet](https://gist.github.com/Iliannnn/6c69605cb6b8cc03f0ab9c885fd39906)
     - [Discord.js v14 Events - Cheatsheet](https://gist.github.com/Iliannnn/f4985563833e2538b1b96a8cb89d72bb)
 
-### Freelancing projects
-- **[WaveShield](https://waveshield.xyz)**: Designed the landing page for one of the best FiveM anticheats on the market
+### What I can do
+- **Frontend**: Building responsive UIs using React, Next.js, Vite, TailwindCSS and Chadcn.
+- **Backend**: Developing scalable APIs with Node.js, Express, Next.js, etc.
+- **Database**: Integration with SQL and NoSQL databases using Prisma.
+- **DevOps**: Setting up containerized environments using Docker and managing servers (Hetzner, Cloudflare, Nginx Proxy Manager).
+- **Full Stack Applications**: End-to-end web apps with a combination of frontend and backend technologies.
+- **Managing self-hosted projects**:
+    - **Linux server managment**: Running self-hosted open-source projects on Linux servers.
+    - **Docker**: Using Docker to containerize self-hosted applications.
+    - **Backup & recovery**: Setting up backups in Linux environments.
+
+### What I want to learn
+- **AI & Machine Learning**: Learn about machine learning models, deep learning and AI-driven applications.
+- **Cloud solutions**: Learn to deploy apps and services with cloud providers like AWS and Azure.
+- **Mobile development**: Learn how to create mobile apps with technologies like React Native and Flutter.
+... and more
+
+### Freelancing Projects
+- **[WaveShield](https://waveshield.xyz)**: Designed the landing page for one of the best FiveM anticheats on the market.
 - **[AmericanMCC](https://americanmcc.com/)**: Contributed to making changes to the Shopify template and adding additional features to improve functionality.
+- **[AspinRock](https://www.aspinrock.com/)**: Took over from the previous developer to fix bugs, redesign the UI, and complete the "Contact Us" form along with the admin panel to manage it. Discovered and resolved a critical vulnerability that exposed the admin credentials to the public due to improper validation. Added functionality for users to subscribe to a mailing list, integrating Mailchimp in the backend to handle subscriptions. Assisted in deploying the updated website using Vercel.
 
 ### Connect with me:
 
@@ -35,7 +53,7 @@ Motivated student with a passion for technology, web development and graphic des
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![C++ (Arduino)](https://img.shields.io/badge/-C++-(Arduino)-000?&logo=linux)
 
 ### Technologies
 
