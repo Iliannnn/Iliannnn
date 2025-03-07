@@ -8,7 +8,7 @@
     - [Imagehost](https://github.com/Iliannnn/Imagehost) - An imagehost template built with PHP.
     - [min-react](https://github.com/Iliannnn/min-react) - Min components for React.
     - [Celendi](https://celendi.gg/) - A multipurpose Discord bot designed to be the only bot you need in your server.
-    - [Discord Wrapped](https://discordwrapped.com/) - An insight on all the data collected by Discord, formed into a video just like Spotify Wrapped!
+    - [Discord Wrapped](https://github.com/Assassin-1234/discord-wrapped) - An insight on all the data collected by Discord, formed into a video just like Spotify Wrapped!
     - [Smarter Smartschool](https://github.com/EbbDrop/SmarterSmartchool) - Modifies Smartschool to get extra functionality.
 - Gists:
     - [Discord.js v13 Events - Cheatsheet](https://gist.github.com/Iliannnn/6c69605cb6b8cc03f0ab9c885fd39906)
@@ -27,7 +27,7 @@
 
 ### Technologies
 
-![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss) ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma) ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn) ![Npm](https://img.shields.io/badge/-NPM-000?&logo=npm) ![Git](https://img.shields.io/badge/-Git-000?&logo=git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![React](https://img.shields.io/badge/-React-000?&logo=react) ![styled-components](https://img.shields.io/badge/-styled--components-000?&logo=styled-components)
+![NodeJS](https://img.shields.io/badge/-Node.js-000?&logo=node.js) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss) ![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma) ![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn) ![Npm](https://img.shields.io/badge/-NPM-000?&logo=npm) ![Git](https://img.shields.io/badge/-Git-000?&logo=git) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![React](https://img.shields.io/badge/-React-000?&logo=react) ![styled-components](https://img.shields.io/badge/-styled--components-000?&logo=styled-components) ![Linux](https://img.shields.io/badge/-Linux-000?&logo=react)
 
 ### Tools
 
