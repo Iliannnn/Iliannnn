@@ -42,6 +42,7 @@ Motivated student with a passion for technology, web development and graphic des
 - **AI & Machine Learning**: Learn about machine learning models, deep learning and AI-driven applications.
 - **Cloud solutions**: Learn to deploy apps and services with cloud providers like AWS and Azure.
 - **Mobile development**: Learn how to create mobile apps with technologies like React Native and Flutter.
+
 ... and more
 
 ### Connect with me:
