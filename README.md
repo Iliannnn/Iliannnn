@@ -72,13 +72,13 @@ Motivated student with a passion for technology, web development and graphic des
   <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2025 - To: 18 April 2025
+From: 12 April 2025 - To: 19 April 2025
 
-Total Time: 2 hrs 22 mins
+Total Time: 2 hrs 5 mins
 
-JavaScript   1 hr 28 mins    ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁   62.50 %
-JSON         49 mins         ▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   34.93 %
-HTML         3 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.54 %
+JavaScript   1 hr 24 mins    ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁   66.86 %
+JSON         38 mins         ▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   30.24 %
+HTML         3 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.87 %
 Git Config   0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.03 %
 ```
 
