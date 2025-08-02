@@ -72,11 +72,12 @@ Motivated student with a passion for technology, web development and graphic des
   <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2025 - To: 30 July 2025
+From: 25 July 2025 - To: 01 August 2025
 
-Total Time: 30 mins
+Total Time: 0 secs
 
-JavaScript   30 mins         ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂   100.00 %
+SRecode Template   0 secs          ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁   74.86 %
+WebVTT             0 secs          ▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   25.14 %
 ```
 
 <!--END_SECTION:waka-->
