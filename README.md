@@ -72,14 +72,13 @@ Motivated student with a passion for technology, web development and graphic des
   <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2025 - To: 11 November 2025
+From: 05 November 2025 - To: 12 November 2025
 
-Total Time: 1 hr 38 mins
+Total Time: 1 hr 44 mins
 
-TypeScript   55 mins         ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁   55.94 %
-WebVTT       26 mins         ▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   26.99 %
-JavaScript   14 mins         ▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   15.00 %
-Text         2 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.07 %
+TypeScript   59 mins         ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁   56.63 %
+WebVTT       40 mins         ▂▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   38.91 %
+JavaScript   4 mins          ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.45 %
 ```
 
 <!--END_SECTION:waka-->
