@@ -15,8 +15,6 @@ Motivated student with a passion for technology, web development and graphic des
 - **Projects**:
     - [Imagehost](https://github.com/Iliannnn/Imagehost) - An imagehost template built with PHP.
     - [min-react](https://github.com/Iliannnn/min-react) - Min components for React.
-    - [Celendi](https://celendi.gg/) - A multipurpose Discord bot designed to be the only bot you need in your server.
-    - [Discord Wrapped](https://github.com/Assassin-1234/discord-wrapped) - An insight on all the data collected by Discord, formed into a video just like Spotify Wrapped!
     - [Smarter Smartschool](https://github.com/EbbDrop/SmarterSmartchool) - Modifies Smartschool to get extra functionality.
 - **Gists**:
     - [Discord.js v13 Events - Cheatsheet](https://gist.github.com/Iliannnn/6c69605cb6b8cc03f0ab9c885fd39906)
