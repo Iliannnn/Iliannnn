@@ -70,13 +70,13 @@ Motivated student with a passion for technology, web development and graphic des
   <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2026 - To: 23 May 2026
+From: 17 May 2026 - To: 24 May 2026
 
-Total Time: 32 mins
+Total Time: 50 mins
 
-JavaScript   27 mins               ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▁▁   85.80 %
-TypeScript   4 mins                ▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.49 %
-Text         0 secs                ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.71 %
+JavaScript   27 mins               ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁   54.58 %
+Text         18 mins               ▂▂▂▂▂▂▂▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   36.84 %
+TypeScript   4 mins                ▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.58 %
 ```
 
 <!--END_SECTION:waka-->
