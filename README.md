@@ -70,15 +70,15 @@ Motivated student with a passion for technology, web development and graphic des
   <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2026 - To: 08 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Total Time: 21 hrs 48 mins
+Total Time: 27 hrs 53 mins
 
-JavaScript   19 hrs 25 mins        ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▁   87.80 %
-Markdown     1 hr 48 mins          ▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.14 %
-Other        18 mins               ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.42 %
-Bash         15 mins               ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.14 %
-Prisma       5 mins                ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.45 %
+JavaScript   25 hrs 6 mins         ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▁▁▁   89.16 %
+Markdown     2 hrs 16 mins         ▂▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.11 %
+Other        16 mins               ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.98 %
+Bash         14 mins               ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.88 %
+Prisma       4 mins                ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.28 %
 ```
 
 <!--END_SECTION:waka-->
